@@ -3,8 +3,6 @@ Cozy Café was born from a simple idea: what if a game could feel relaxing and c
 A lot of mobile games lean too hard in one direction — either they're so calm they lose their spark, or so intense they stop being fun. Cozy Café tries to find the sweet spot in between. The warm visuals, coffee shop atmosphere, and gentle sounds are designed to feel soothing, while the ticking patience bars and growing customer queues keep you just engaged enough to stay on your toes.
 The goal was never to make a stressful game. It was to make one that feels like a good cup of coffee — comforting, familiar, with just enough of a kick to keep you going.
 
-.
-
 🎮 What the Game Does
 You play as a café owner managing a small dining room with three tables. Customers queue up and get seated automatically. Each customer has a visible patience bar that drains in real time — serve their order before it hits zero or they walk out, costing you coins and resetting your streak.
 Core loop:
